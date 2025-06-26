@@ -34,7 +34,7 @@ Voici les étapes exactes que j’ai suivies dans la gestion de mon projet Git n
    - J’ai ouvert le terminal et exécuté :
      
      cd chemin/vers/projet_git
-     git clone https://github.com/mon-utilisateur/site_pr-sentation_entreprise.git
+     git clone https://github.com/christLK-codeur/site_pr-sentation_entreprise.git
      
    - Cela a créé un dossier local connecté au dépôt distant.
 
